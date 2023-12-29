@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.jumbotron{
+    background-color: #FDF5DF;
+}
+
+.logo img{
+    width: 15rem;
+
+}
+
+.search-image{
+    width: 1.5rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}
