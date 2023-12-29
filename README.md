@@ -7,7 +7,7 @@ A simple web application to track COVID-19 cases using HTML, CSS, Bootstrap, and
 
 The COVID-19 Tracker project is a web application designed to provide real-time information on COVID-19 statistics. Built using HTML, CSS, Bootstrap, and Angular, this tracker offers a user-friendly interface for monitoring confirmed cases, recoveries, and deaths associated with the global pandemic.
 
-![COVID-19 Tracker](path/to/your/image.png)
+![COVID-19 Tracker](/img/icons8-search.svg)
 
 ## Features
 
